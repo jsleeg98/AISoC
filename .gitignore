@@ -1,1 +1,5 @@
 AISoC/sm/
+AISoC/dh/.idea
+.github
+*.weights
+
